@@ -1,0 +1,208 @@
+body{
+  margin: 0;
+  padding: 0;
+  color:#000000;
+  font-family: 'Montserrat', sans-serif;
+}
+header{
+  background-color:#ffff99;
+  height:100px;
+}
+.Wrap{
+  max-width:100%;
+  margin: 0;
+  padding:0px 60px;
+}
+.Main-header{
+  width: 100%;
+}
+.Clearfix{
+  clear: both;
+  content: "";
+  display: table;
+}
+.Left{
+  float: left;
+  padding-top:px;
+  padding-bottom:px;
+}
+.cakelogo{
+  height:120px;
+  width: 120px;
+}
+.Right{
+  float: right;
+}
+.Right ul li{
+  display: inline-block;
+  padding: 30px 10px 10px 15px;
+  font-size:25px;
+  font-family: 'Montserrat', sans-serif;
+}
+.Right a{
+  text-decoration: none;
+  color:#000000;
+}
+.Right a:hover{
+  color:#ffffff;
+}
+.cart{
+  height:30px;
+  width: 30px;
+}
+/*<---bannerportion>*/
+.banner{
+  position:relative;
+  width:;
+}
+.banner-img{
+  width:100%;
+  height: 580px;
+  padding-bottom:20px;
+}
+.banner-content{
+position:absolute;
+font-size:2.5rem;
+transform: translate(60%,-200%);
+text-shadow: 0 0 8px #ffffff, 0 0 8px #ffffff;
+font-family: 'Kenia', cursive;
+}
+.banner-para{
+  text-align:justify;
+  padding: 5px 40px;
+}
+/*Card Portion*/
+.Card-section{
+
+}
+.Collection-head{
+  font-family: 'Kenia', cursive;
+  text-shadow: 0 0 6px #ff0000, 0 0 6px #ffff00;
+  font-size:40px;
+}
+h2{
+  font-family: 'Kenia', cursive;
+  text-shadow: 0 0 6px #ffffff, 0 0 6px #ffffff;
+  font-size:30px;
+}
+.row{
+  width: 100%;
+}
+.column{
+  float: left;
+  width: 31%;
+  margin: 11px;
+  background-color:#ffff99;
+  text-align: center;
+}
+.column img{
+height:300px;
+width: 350px;
+margin:20px;
+}
+.column p{
+  text-align: left;
+  margin: 10px;
+}
+.img-border{
+  border-top: 5px solid white;
+}
+.Collection-section{
+  margin-top:60px;
+  padding:0px 0px 0px 75px;
+}
+.collection-heading{
+  text-align:center;
+  background-color:;
+  padding-right:82px;
+}
+.collection-column{
+  float: left;
+  width: 31%;
+  background-color:#ffff99;
+  text-align: center;
+  margin-top:;
+}
+.collection-column img{
+  height:300px;
+  width: 400px;
+  margin:20px;
+  border-radius:5%;
+}
+.collection-column p{
+  text-align:justify;
+  margin: 10px;
+  padding-left:10px;
+  font-size:15px;
+  font-family: 'Montserrat', sans-serif;
+}
+/*ABOUT SECTION*/
+.description{
+  text-align: center;
+}
+.AU{
+  font-family: 'Kenia', cursive;
+  text-shadow: 0 0 6px #ff0000, 0 0 6px #ffff00;
+  font-size:40px;
+}
+.description p{
+  margin:40px;
+  text-align:center;
+}
+.about-column{
+  float: left;
+  width:48%;
+}
+.arrow-cake{
+  float: left;
+  height:20px;
+}
+.about-column li{
+  list-style: none;
+}
+.chefimg{
+  float: right;
+  height:300px;
+}
+.des{
+  padding-left:40px;
+}
+.map{
+margin:70px;
+}
+/*footer-section*/
+.footerbackground{
+  background-color:#808000;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.contact-column{
+  float: left;
+  width: 24%;
+  margin:6px;
+}
+.contact-column ul li a{
+  text-decoration: none;
+  color:#000000;
+}
+.contact-column ul li a:hover{
+  color:#ffffff;
+}
+.contact-column ul li{
+  list-style: none;
+}
+h3{
+  font-family: 'Kenia', cursive;
+  text-shadow: 0 0 6px #ffffff, 0 0 6px #ffffff;
+  text-align:left;
+  padding-left:40px;
+  font-size:25px;
+}
+.company-address{
+  padding-left:39px;
+}
+.oc{
+  font-family: 'Kenia', cursive;
+  text-shadow: 0 0 6px #ffffff, 0 0 6px #ffffff;
+  font-size:25px;
+}
